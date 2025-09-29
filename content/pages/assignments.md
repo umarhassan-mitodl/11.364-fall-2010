@@ -2,6 +2,8 @@
 content_type: page
 description: This section outlines due dates and descriptions for the assignments
   of the course.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -19,7 +21,7 @@ Students will write a short memorandum (i.e., no more than three typed pages) co
 Weeks 5 & 6: Simulation Activity: The Chlorine Game
 ---------------------------------------------------
 
-Students will play {{% resource_link "1627f95f-6689-4a1a-b2da-1bc70f05c316" "The Chlorine Game" %}} in assigned groups of 12 outside of class. Each student will be required to post a two page essay analyzing what happened in their play of the game and respond to an assigned set of questions. This essay is worth a maximum of 15 points.
+Students will play [The Chlorine Game](http://www.pon.harvard.edu/shop/global-management-of-organochlorines/) in assigned groups of 12 outside of class. Each student will be required to post a two page essay analyzing what happened in their play of the game and respond to an assigned set of questions. This essay is worth a maximum of 15 points.
 
 Weeks 7 & 8: Evaluation of the Copenhagen Negotiations
 ------------------------------------------------------
@@ -39,4 +41,4 @@ Students will deliver a short summary of their prescriptive suggestions during o
 Week 14: Final Paper
 --------------------
 
-The final assignment for the class is the final version of the term paper. A maximum of 35 points will be awarded for an inventive, well argued, well - researched paper that not only offers a compelling prescription, but grounds that suggestion in the relevant theoretical literature from international relations, international law, multiparty negotiation theory, science and public policy, and environmental science. The best papers will be published in {{% resource_link "03c6242d-4880-4626-95b7-7d8b9bb07419" "Papers on International Environmental Negotiation" %}}.
+The final assignment for the class is the final version of the term paper. A maximum of 35 points will be awarded for an inventive, well argued, well - researched paper that not only offers a compelling prescription, but grounds that suggestion in the relevant theoretical literature from international relations, international law, multiparty negotiation theory, science and public policy, and environmental science. The best papers will be published in [Papers on International Environmental Negotiation](https://www.pon.harvard.edu/shop/papers-on-international-environmental-negotiation-volume-17-on-the-road-to-copenhagen-2009-copy/).

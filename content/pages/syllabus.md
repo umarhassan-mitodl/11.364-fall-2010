@@ -2,6 +2,8 @@
 content_type: page
 description: This syllabus section provides the course description and information
   on meeting times, course format, and grading.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -16,7 +18,7 @@ Lectures: 1 session / week, 3 hours / session
 Course Description
 ------------------
 
-This class is jointly presented by the MIT Department of Urban Studies and Planning (DUSP), the {{% resource_link "ce8b9c6c-5535-4cad-a301-c44105b2eb59" "Fletcher School of Diplomacy" %}} at Tufts University, and the {{% resource_link "cc176ed4-04fa-41e8-9b69-2614b4402b27" "Program on Negotiation" %}} at Harvard Law School.
+This class is jointly presented by the MIT Department of Urban Studies and Planning (DUSP), the [Fletcher School of Diplomacy](http://fletcher.tufts.edu/) at Tufts University, and the [Program on Negotiation](http://www.pon.harvard.edu/?floater=99) at Harvard Law School.
 
 This seminar will explore the difficulties of getting agreement on global definitions of sustainability; in particular, building international support for efforts to combat climate change created by greenhouse gas emissions, as well as other international resource management efforts.
 

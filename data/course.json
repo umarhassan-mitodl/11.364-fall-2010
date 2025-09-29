@@ -43,6 +43,7 @@
     "website": "11-364-international-environmental-negotiation-fall-2010"
   },
   "course_title": "International Environmental Negotiation",
+  "hide_download": true,
   "course_description": "This seminar will explore the difficulties of getting agreement on global definitions of sustainability; in particularly building international support for efforts to combat climate change created by greenhouse gas emissions as well as other international resource management efforts. We will focus on possible changes in the way global environmental agreements are formulated and implemented, especially on ways of shifting from the current \"pollution control\" approach to combating climate change to a more comprehensive strategy for taking advantage of sustainable development opportunities.\n",
   "department_numbers": [
     "11"
@@ -53,6 +54,7 @@
     "content": "44aebcde-75e6-44bb-8085-52cb11e69de9",
     "website": "11-364-international-environmental-negotiation-fall-2010"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Written Assignments",
     "Activity Assignments",
