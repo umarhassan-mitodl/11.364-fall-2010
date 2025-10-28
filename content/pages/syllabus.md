@@ -16,7 +16,7 @@ Lectures: 1 session / week, 3 hours / session
 Course Description
 ------------------
 
-This class is jointly presented by the MIT Department of Urban Studies and Planning (DUSP), the [Fletcher School of Diplomacy](http://fletcher.tufts.edu/) at Tufts University, and the [Program on Negotiation](http://www.pon.harvard.edu/?floater=99) at Harvard Law School.
+This class is jointly presented by the MIT Department of Urban Studies and Planning (DUSP), the {{% resource_link "da9de328-f405-4deb-a8bd-88c722889f12" "Fletcher School of Diplomacy" %}} at Tufts University, and the {{% resource_link "9885b598-6b64-4f3e-adcd-58c90d812750" "Program on Negotiation" %}} at Harvard Law School.
 
 This seminar will explore the difficulties of getting agreement on global definitions of sustainability; in particular, building international support for efforts to combat climate change created by greenhouse gas emissions, as well as other international resource management efforts.
 

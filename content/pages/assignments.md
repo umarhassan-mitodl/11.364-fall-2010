@@ -19,7 +19,7 @@ Students will write a short memorandum (i.e., no more than three typed pages) co
 Weeks 5 & 6: Simulation Activity: The Chlorine Game
 ---------------------------------------------------
 
-Students will play [The Chlorine Game](http://www.pon.harvard.edu/shop/global-management-of-organochlorines/) in assigned groups of 12 outside of class. Each student will be required to post a two page essay analyzing what happened in their play of the game and respond to an assigned set of questions. This essay is worth a maximum of 15 points.
+Students will play {{% resource_link "51a8c0eb-0ae8-4126-862c-88c6e4aa68a4" "The Chlorine Game" %}} in assigned groups of 12 outside of class. Each student will be required to post a two page essay analyzing what happened in their play of the game and respond to an assigned set of questions. This essay is worth a maximum of 15 points.
 
 Weeks 7 & 8: Evaluation of the Copenhagen Negotiations
 ------------------------------------------------------
@@ -39,4 +39,4 @@ Students will deliver a short summary of their prescriptive suggestions during o
 Week 14: Final Paper
 --------------------
 
-The final assignment for the class is the final version of the term paper. A maximum of 35 points will be awarded for an inventive, well argued, well - researched paper that not only offers a compelling prescription, but grounds that suggestion in the relevant theoretical literature from international relations, international law, multiparty negotiation theory, science and public policy, and environmental science. The best papers will be published in [Papers on International Environmental Negotiation](https://www.pon.harvard.edu/shop/papers-on-international-environmental-negotiation-volume-17-on-the-road-to-copenhagen-2009-copy/).
+The final assignment for the class is the final version of the term paper. A maximum of 35 points will be awarded for an inventive, well argued, well - researched paper that not only offers a compelling prescription, but grounds that suggestion in the relevant theoretical literature from international relations, international law, multiparty negotiation theory, science and public policy, and environmental science. The best papers will be published in {{% resource_link "308aaa07-c8e0-4a4a-913d-9daa7d074cbf" "Papers on International Environmental Negotiation" %}}.
